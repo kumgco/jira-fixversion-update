@@ -1,0 +1,12 @@
+{
+  "update": {
+    "fixVersions": [
+      {
+        "add": {
+          "name": "V1.0"
+        }
+      }
+    ]
+  }
+}
+
