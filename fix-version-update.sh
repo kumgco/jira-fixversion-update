@@ -1,5 +1,5 @@
 #!/bin/bash
-JIRAURL='https://mediaiq.atlassian.net'
+JIRAURL='https://<YOURCOMPANY>.atlassian.net'
 JQL='project="SK"+AND+Status="Closed"'
 MAXRESULTS='500'
 FIELDS=SK
